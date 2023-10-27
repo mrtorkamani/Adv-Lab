@@ -1,0 +1,280 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{klein}{book}{}
+      \list{location}{1}{%
+        {The Argelander-Institut für Astronomie (AIfA)}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{title}{Radio astronomy: Tools, applications, and impacts}
+      \field{year}{2006}
+    \endentry
+    \entry{scipy}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.scipy.org/}}
+      \field{title}{SciPy: Open Source Scientific Tools for Python}
+    \endentry
+    \entry{amplifiers}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e3bdb2d65965c5a62a8a82287e74d8fb}{%
+           family={Hayward},
+           familyi={H\bibinitperiod},
+           given={Wes\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Amer Radio Relay League}%
+      }
+      \strng{namehash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \strng{fullhash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \strng{bibnamehash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \strng{authorbibnamehash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \strng{authornamehash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \strng{authorfullhash}{e3bdb2d65965c5a62a8a82287e74d8fb}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Radio Frequency Design}
+      \field{year}{1995}
+    \endentry
+    \entry{lecturenote}{book}{}
+      \list{location}{1}{%
+        {The Argelander-Institut für Astronomie (AIfA)}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labeltitlesource}{title}
+      \field{title}{S262 – Setting up a radio-astronomical receiver/Setting up a radio interferometer}
+      \field{year}{2023}
+    \endentry
+    \entry{bandwidth}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ba7069648b5a3d3ec32aa3112eaf6ff6}{%
+           family={Lathi},
+           familyi={L\bibinitperiod},
+           given={B.\bibnamedelimi P},
+           giveni={B\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berkeley Cambridge Press}%
+      }
+      \strng{namehash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \strng{fullhash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \strng{bibnamehash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \strng{authorbibnamehash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \strng{authornamehash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \strng{authorfullhash}{ba7069648b5a3d3ec32aa3112eaf6ff6}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Signal Processing and Linear Systems}
+      \field{year}{1998}
+    \endentry
+    \entry{mixers}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d24f273bc6b8cfcfddb47e3a592f97de}{%
+           family={Pozar},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{fullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{bibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorbibnamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authornamehash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \strng{authorfullhash}{d24f273bc6b8cfcfddb47e3a592f97de}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Microwave Engineering}
+      \field{year}{2021}
+    \endentry
+    \entry{radiometereq}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b77c865262f4646665ca461e6312562c}{%
+           family={Woodhouse},
+           familyi={W\bibinitperiod},
+           given={Iain\bibnamedelima H.},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{b77c865262f4646665ca461e6312562c}
+      \strng{fullhash}{b77c865262f4646665ca461e6312562c}
+      \strng{bibnamehash}{b77c865262f4646665ca461e6312562c}
+      \strng{authorbibnamehash}{b77c865262f4646665ca461e6312562c}
+      \strng{authornamehash}{b77c865262f4646665ca461e6312562c}
+      \strng{authorfullhash}{b77c865262f4646665ca461e6312562c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Microwave Remote Sensing}
+      \field{year}{2006}
+    \endentry
+    \entry{antennas}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0fd5a7a9d0c16944f5ce7530598042f4}{%
+           family={Stutzman},
+           familyi={S\bibinitperiod},
+           given={Warren\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \strng{fullhash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \strng{bibnamehash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \strng{authorbibnamehash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \strng{authornamehash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \strng{authorfullhash}{0fd5a7a9d0c16944f5ce7530598042f4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antenna Theory and Design}
+      \field{year}{2012}
+    \endentry
+    \entry{Tools}{book}{}
+      \name{author}{1}{}{%
+        {{hash=998d368f037e0eee7727e6d7d725021a}{%
+           family={Huttemeister},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelimb L.\bibnamedelimi Wilson\bibnamedelimb Kristen\bibnamedelimb Rohlfs\bibnamedelima Susanne},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{998d368f037e0eee7727e6d7d725021a}
+      \strng{fullhash}{998d368f037e0eee7727e6d7d725021a}
+      \strng{bibnamehash}{998d368f037e0eee7727e6d7d725021a}
+      \strng{authorbibnamehash}{998d368f037e0eee7727e6d7d725021a}
+      \strng{authornamehash}{998d368f037e0eee7727e6d7d725021a}
+      \strng{authorfullhash}{998d368f037e0eee7727e6d7d725021a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tools of Radio Astronomy}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1007/978-3-642-39950-3
+      \endverb
+    \endentry
+    \entry{Thesun}{book}{}
+      \name{author}{1}{}{%
+        {{hash=043ab6ff2bc30bcfc0312ddd1b5ebf02}{%
+           family={Stix},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \strng{fullhash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \strng{bibnamehash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \strng{authorbibnamehash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \strng{authornamehash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \strng{authorfullhash}{043ab6ff2bc30bcfc0312ddd1b5ebf02}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Astronomy and Astrophysics Library}
+      \field{title}{The Sun: An Introduction}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=9V7yCAAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=9V7yCAAAQBAJ
+      \endverb
+    \endentry
+    \entry{Planklaw}{book}{}
+      \name{author}{1}{}{%
+        {{hash=82c14d99489a1164fe541dfda83c20bf}{%
+           family={Caniou},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{82c14d99489a1164fe541dfda83c20bf}
+      \strng{fullhash}{82c14d99489a1164fe541dfda83c20bf}
+      \strng{bibnamehash}{82c14d99489a1164fe541dfda83c20bf}
+      \strng{authorbibnamehash}{82c14d99489a1164fe541dfda83c20bf}
+      \strng{authornamehash}{82c14d99489a1164fe541dfda83c20bf}
+      \strng{authorfullhash}{82c14d99489a1164fe541dfda83c20bf}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780792385325}
+      \field{title}{Passive Infrared Detection: Theory and Applications}
+      \field{year}{1999}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=X-aFGcf6pOEC
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=X-aFGcf6pOEC
+      \endverb
+    \endentry
+    \entry{activequitesun}{misc}{}
+      \list{publisher}{1}{%
+        {physicsopenlab.org}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://physicsopenlab.org/2020/10/25/solar-radio-emission/}}
+      \field{title}{Solar Radio Emission}
+      \field{year}{2020}
+    \endentry
+    \entry{sizeofsun}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.radio2space.com/the-radio-sun/}}
+      \field{title}{The radio Sun}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
