@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'S264.blg'
+[60] biber:322> INFO - === Wed Sep 13, 2023, 17:31:27
+[71] Biber.pm:415> INFO - Reading 'S264.bcf'
+[125] Biber.pm:943> INFO - Found 15 citekeys in bib section 0
+[136] Biber.pm:4256> INFO - Processing section 0
+[137] Utils.pm:75> INFO - Globbing data source 'bibi.bib'
+[137] Utils.pm:91> INFO - Globbed data source 'bibi.bib' to bibi.bib
+[145] Biber.pm:4455> INFO - Looking for bibtex format file 'bibi.bib' for section 0
+[146] bibtex.pm:1653> INFO - LaTeX decoding ...
+[157] bibtex.pm:1471> INFO - Found BibTeX data source 'bibi.bib'
+[216] Utils.pm:293> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[230] Biber.pm:4084> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[230] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[240] bbl.pm:652> INFO - Writing 'S264.bbl' with encoding 'UTF-8'
+[245] bbl.pm:755> INFO - Output to S264.bbl
+[245] Biber.pm:128> INFO - WARNINGS: 1

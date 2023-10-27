@@ -1,0 +1,365 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{fundamentals}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d20a1e8274e74da85d0b2060b194b537}{%
+           family={Jonathan\bibnamedelimb M.\bibnamedelimi Marr},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Stanley\bibnamedelimb E.\bibnamedelimi Kurtz},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           suffix={Ronald\bibnamedelimb L.\bibnamedelimi Snell},
+           suffixi={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{d20a1e8274e74da85d0b2060b194b537}
+      \strng{fullhash}{d20a1e8274e74da85d0b2060b194b537}
+      \strng{bibnamehash}{d20a1e8274e74da85d0b2060b194b537}
+      \strng{authorbibnamehash}{d20a1e8274e74da85d0b2060b194b537}
+      \strng{authornamehash}{d20a1e8274e74da85d0b2060b194b537}
+      \strng{authorfullhash}{d20a1e8274e74da85d0b2060b194b537}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals of Radio Astronomy - Observational Methods}
+      \field{year}{2015}
+    \endentry
+    \entry{antennabook}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d0b9c8e630eb818378ce4ea802e4ad0b}{%
+           family={Straw},
+           familyi={S\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           suffix={R.\bibnamedelimi Dean},
+           suffixi={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Radio Relay League}%
+      }
+      \strng{namehash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \strng{fullhash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \strng{bibnamehash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \strng{authorbibnamehash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \strng{authornamehash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \strng{authorfullhash}{d0b9c8e630eb818378ce4ea802e4ad0b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{he ARRL Antenna Book, 19th Ed}
+      \field{year}{2000}
+    \endentry
+    \entry{lecturenote}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad61ebe358e8c8dc9cb7690685922bdf}{%
+           family={Kerp},
+           familyi={K\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {The Argelander-Institut für Astronomie (AIfA)}%
+      }
+      \strng{namehash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \strng{fullhash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \strng{bibnamehash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \strng{authorbibnamehash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \strng{authornamehash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \strng{authorfullhash}{ad61ebe358e8c8dc9cb7690685922bdf}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Radio astronomical practical course at the Stockert 25-m telescope}
+      \field{year}{2022}
+    \endentry
+    \entry{effelsberg}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{howpublished}{\url{https://en.wikipedia.org/wiki/Effelsberg_100-m_Radio_Telescope}}
+    \endentry
+    \entry{essential}{book}{}
+      \name{author}{2}{}{%
+        {{hash=301136a5fbbd1fddc05301b636822261}{%
+           family={Condon},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d85bc189fd815eccb73a4fbbccd4bc85}{%
+           family={Ransom},
+           familyi={R\bibinitperiod},
+           given={Scott\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{5ae7313f2de8fe81a621560f59b26859}
+      \strng{fullhash}{5ae7313f2de8fe81a621560f59b26859}
+      \strng{bibnamehash}{5ae7313f2de8fe81a621560f59b26859}
+      \strng{authorbibnamehash}{5ae7313f2de8fe81a621560f59b26859}
+      \strng{authornamehash}{5ae7313f2de8fe81a621560f59b26859}
+      \strng{authorfullhash}{5ae7313f2de8fe81a621560f59b26859}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Essential Radio Astronomy}
+      \field{year}{2016}
+    \endentry
+    \entry{klein}{book}{}
+      \list{location}{1}{%
+        {The Argelander-Institut für Astronomie (AIfA)}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Radio astronomy: Tools, applications, and impacts}
+      \field{year}{2006}
+    \endentry
+    \entry{design}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6df6fa5f70213b914d19d79395dd9bb3}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c07997d60353c5441b527fe4f5d8b9f2}{%
+           family={McLean},
+           familyi={M\bibinitperiod},
+           given={Ian\bibnamedelima S.},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{70cd28f692ade23782c98a0c1160dbad}
+      \strng{fullhash}{70cd28f692ade23782c98a0c1160dbad}
+      \strng{bibnamehash}{70cd28f692ade23782c98a0c1160dbad}
+      \strng{authorbibnamehash}{70cd28f692ade23782c98a0c1160dbad}
+      \strng{authornamehash}{70cd28f692ade23782c98a0c1160dbad}
+      \strng{authorfullhash}{70cd28f692ade23782c98a0c1160dbad}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Telescopes}
+      \field{year}{2013}
+    \endentry
+    \entry{deformation}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0fd5a7a9d0c16944f5ce7530598042f4}{%
+           family={Stutzman},
+           familyi={S\bibinitperiod},
+           given={Warren\bibnamedelima L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c7eb2eab367bc875a16915288dfe48df}{%
+           family={Thiele},
+           familyi={T\bibinitperiod},
+           given={Gary\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{ebf22eea6540834b978b4fc91c864606}
+      \strng{fullhash}{ebf22eea6540834b978b4fc91c864606}
+      \strng{bibnamehash}{ebf22eea6540834b978b4fc91c864606}
+      \strng{authorbibnamehash}{ebf22eea6540834b978b4fc91c864606}
+      \strng{authornamehash}{ebf22eea6540834b978b4fc91c864606}
+      \strng{authorfullhash}{ebf22eea6540834b978b4fc91c864606}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antenna Theory and Design}
+      \field{year}{2012}
+    \endentry
+    \entry{accuracy}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{howpublished}{\url{https://www.astropeiler.de/technik-zahlen-und-videos/}}
+    \endentry
+    \entry{calibration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa119fec3f1986f12ee6c60b8661b8d1}{%
+           family={P.\bibnamedelimi M.\bibnamedelimi W.\bibnamedelimi Kalberla},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={U.\bibnamedelimi Mebold},
+           giveni={U\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=dad3b0565094f53fa6e6f46e17627a86}{%
+           family={Reif},
+           familyi={R\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9696535bc2d7186cd99c0de93a786ce9}
+      \strng{fullhash}{9696535bc2d7186cd99c0de93a786ce9}
+      \strng{bibnamehash}{9696535bc2d7186cd99c0de93a786ce9}
+      \strng{authorbibnamehash}{9696535bc2d7186cd99c0de93a786ce9}
+      \strng{authornamehash}{9696535bc2d7186cd99c0de93a786ce9}
+      \strng{authorfullhash}{9696535bc2d7186cd99c0de93a786ce9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Astronomy and Astrophysics}
+      \field{title}{Brightness temperature calibration for 21-cm line observations}
+      \field{year}{1982}
+    \endentry
+    \entry{survey}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{howpublished}{\url{https://heasarc.gsfc.nasa.gov/}}
+    \endentry
+    \entry{DM}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f72313e4eb4812ca8483160749dd217}{%
+           family={Kulkarni},
+           familyi={K\bibinitperiod},
+           given={SR},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f72313e4eb4812ca8483160749dd217}
+      \strng{fullhash}{0f72313e4eb4812ca8483160749dd217}
+      \strng{bibnamehash}{0f72313e4eb4812ca8483160749dd217}
+      \strng{authorbibnamehash}{0f72313e4eb4812ca8483160749dd217}
+      \strng{authornamehash}{0f72313e4eb4812ca8483160749dd217}
+      \strng{authorfullhash}{0f72313e4eb4812ca8483160749dd217}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2007.02886}
+      \field{title}{Dispersion measure: Confusion, constants \& clarity}
+      \field{year}{2020}
+    \endentry
+    \entry{pulsars}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.atnf.csiro.au/research/pulsar/psrcat/}}
+      \field{title}{ATNF Pulsar Catalogue}
+    \endentry
+    \entry{Manchester_2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6488550d4f50cf4feee753834da08b4b}{%
+           family={Manchester},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=474a73b957177078c34dd58f953b2d55}{%
+           family={Hobbs},
+           familyi={H\bibinitperiod},
+           given={G.\bibnamedelimi B.},
+           giveni={G\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=998ec217aa5f5a69e08f13f8ec5b3ee2}{%
+           family={Teoh},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d757bf22e8292112711803002dc4ea7f}{%
+           family={Hobbs},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a448c255ca06d4b61a86db6581c5ee44}
+      \strng{fullhash}{0de7e0317c9ae83a3339e8132a00b660}
+      \strng{bibnamehash}{a448c255ca06d4b61a86db6581c5ee44}
+      \strng{authorbibnamehash}{a448c255ca06d4b61a86db6581c5ee44}
+      \strng{authornamehash}{a448c255ca06d4b61a86db6581c5ee44}
+      \strng{authorfullhash}{0de7e0317c9ae83a3339e8132a00b660}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have compiled a new and complete catalog of the main properties of the 1509 pulsars for which published information currently exists. The catalog includes all spin-powered pulsars, as well as anomalous X-ray pulsars and soft gamma-ray repeaters showing coherent pulsed emission, but excludes accretion-powered systems. References are given for all data listed. We have also developed a new World Wide Web interface for accessing and displaying either tabular or plotted data with the option of selecting pulsars to be displayed via logical conditions on parameter expressions. The Web interface has an "expert" mode giving access to a wider range of parameters and allowing the use of custom databases. For users with locally installed software and database on Unix or Linux systems, the catalog may be accessed from a command-line interface. C-language functions to access specified parameters are also available. The catalog is updated from time to time to include new information.}
+      \field{journaltitle}{The Astronomical Journal}
+      \field{month}{04}
+      \field{number}{4}
+      \field{title}{The Australia Telescope National Facility Pulsar Catalogue}
+      \field{volume}{129}
+      \field{year}{2005}
+      \field{pages}{1993}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1086/428488
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1086/428488
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1086/428488
+      \endverb
+    \endentry
+    \entry{refId0}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6b1221a062b5557cc51b215b12ebb961}{%
+           family={{de Avillez, Miguel A.}},
+           familyi={d\bibinitperiod}}}%
+        {{hash=942759dcd6f2e60c7b2019c041de2517}{%
+           family={{Anela, Gervásio J.}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=17efb42c3d7dc61a827241ad5b013eeb}{%
+           family={{Asgekar, Ashish}},
+           familyi={A\bibinitperiod}}}%
+        {{hash=61f7e8b5c135b8daf5b2fc161242ab03}{%
+           family={{Breitschwerdt, Dieter}},
+           familyi={B\bibinitperiod}}}%
+        {{hash=42a61b8e7368157bfc95b7b02eac216d}{%
+           family={{Schnitzeler, Dominic H. F. M.}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8c03b576a8a8b109973b42aa5d7e8e5}
+      \strng{fullhash}{0fe2ad7e88754a6ecafb7f924943984c}
+      \strng{bibnamehash}{a8c03b576a8a8b109973b42aa5d7e8e5}
+      \strng{authorbibnamehash}{a8c03b576a8a8b109973b42aa5d7e8e5}
+      \strng{authornamehash}{a8c03b576a8a8b109973b42aa5d7e8e5}
+      \strng{authorfullhash}{0fe2ad7e88754a6ecafb7f924943984c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{A\&A}
+      \field{title}{Electrons in the supernova-driven interstellar medium - Results from self-consistent time-dependent ionic and hydrodynamic evolution of the interstellar plasma}
+      \field{volume}{644}
+      \field{year}{2020}
+      \field{pages}{A156}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1051/0004-6361/202039080
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1051/0004-6361/202039080
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1051/0004-6361/202039080
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
