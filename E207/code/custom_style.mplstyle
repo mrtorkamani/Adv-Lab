@@ -1,0 +1,40 @@
+figure.figsize: 8, 6
+figure.dpi: 300
+
+font.size: 14
+
+axes.labelsize: 14
+axes.titlesize: 14
+
+xtick.bottom: True
+xtick.top: True
+ytick.left: True
+ytick.right: True
+
+
+xtick.direction: in
+xtick.major.size: 4
+xtick.minor.size: 2
+xtick.minor.width: 0.5
+xtick.labelsize: 10
+
+ytick.direction: in
+ytick.major.size: 4
+ytick.minor.size: 2
+ytick.minor.width: 0.5
+ytick.labelsize: 10
+
+xtick.major.width: 2.0
+ytick.major.width: 2.0
+
+lines.linewidth: 2
+
+axes.spines.bottom: True
+axes.spines.top: True
+axes.spines.left: True
+axes.spines.right: True
+
+axes.linewidth: 2.0
+
+grid.color: w
+grid.linewidth: 0.6

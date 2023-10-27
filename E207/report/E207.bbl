@@ -1,0 +1,129 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{elsa}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www-elsa.physik.uni-bonn.de/}}
+      \field{title}{Elektronen-Stretcher Anlage ELSA-Facility}
+      \verb{urlraw}
+      \verb https://www-elsa.physik.uni-bonn.de/
+      \endverb
+      \verb{url}
+      \verb https://www-elsa.physik.uni-bonn.de/
+      \endverb
+    \endentry
+    \entry{lecturenote}{book}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{title}{E207 - Lab Course Accelerator Bonn (LAB)}
+      \field{year}{2020}
+    \endentry
+    \entry{numpy}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=4cd095ab0bf9dceeb691e4f6237078f8}{%
+           family={{NumPy Community}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {NumPy Community}%
+      }
+      \strng{namehash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \strng{fullhash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \strng{bibnamehash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \strng{authorbibnamehash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \strng{authornamehash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \strng{authorfullhash}{4cd095ab0bf9dceeb691e4f6237078f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NumPy}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://numpy.org/
+      \endverb
+      \verb{url}
+      \verb https://numpy.org/
+      \endverb
+    \endentry
+    \entry{scipy}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=7da5bb7fe20097f745b0da35ec77b399}{%
+           family={{SciPy Developers}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SciPy}%
+      }
+      \strng{namehash}{7da5bb7fe20097f745b0da35ec77b399}
+      \strng{fullhash}{7da5bb7fe20097f745b0da35ec77b399}
+      \strng{bibnamehash}{7da5bb7fe20097f745b0da35ec77b399}
+      \strng{authorbibnamehash}{7da5bb7fe20097f745b0da35ec77b399}
+      \strng{authornamehash}{7da5bb7fe20097f745b0da35ec77b399}
+      \strng{authorfullhash}{7da5bb7fe20097f745b0da35ec77b399}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SciPy: Open Source Scientific Tools for Python}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.scipy.org/
+      \endverb
+      \verb{url}
+      \verb https://www.scipy.org/
+      \endverb
+    \endentry
+    \entry{sympy}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=2d1ca6c81ba155548428362c81f64f38}{%
+           family={{SymPy Community}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SymPy Community}%
+      }
+      \strng{namehash}{2d1ca6c81ba155548428362c81f64f38}
+      \strng{fullhash}{2d1ca6c81ba155548428362c81f64f38}
+      \strng{bibnamehash}{2d1ca6c81ba155548428362c81f64f38}
+      \strng{authorbibnamehash}{2d1ca6c81ba155548428362c81f64f38}
+      \strng{authornamehash}{2d1ca6c81ba155548428362c81f64f38}
+      \strng{authorfullhash}{2d1ca6c81ba155548428362c81f64f38}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SymPy}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://sympy.org/
+      \endverb
+      \verb{url}
+      \verb https://sympy.org/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
